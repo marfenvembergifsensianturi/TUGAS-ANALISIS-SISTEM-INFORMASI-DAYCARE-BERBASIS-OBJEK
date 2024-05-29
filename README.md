@@ -29,3 +29,6 @@ jadwal, kehadiran, dan laporan.
 
 # Class Diagram
 ![ClassdiagramAPBO drawio](https://github.com/marfenvembergifsensianturi/TUGAS-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK/assets/148310911/f21bee69-474e-40fd-8991-b90a0cc124b9)
+
+# ERD
+![ERD drawio](https://github.com/marfenvembergifsensianturi/TUGAS-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK/assets/148310911/490010e1-bd09-43f9-a8c6-c0914cc9dcab)
