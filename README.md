@@ -27,3 +27,5 @@ jadwal, kehadiran, dan laporan.
 # Use Case
 ![UsecaseAPBO drawio](https://github.com/marfenvembergifsensianturi/TUGAS-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK/assets/148310911/773f9569-f750-4462-a1d5-9a3ac1e7358b)
 
+#Class Diagram
+![ClassdiagramAPBO drawio](https://github.com/marfenvembergifsensianturi/TUGAS-ANALISIS-SISTEM-INFORMASI-DAYCARE-BERBASIS-OBJEK/assets/148310911/f21bee69-474e-40fd-8991-b90a0cc124b9)
